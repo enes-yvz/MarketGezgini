@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1058624586121",
+    "firebase_url": "https://marketgezgini.firebaseio.com",
+    "project_id": "marketgezgini",
+    "storage_bucket": "marketgezgini.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058624586121:android:66690c54fd43a9f191a158",
+        "android_client_info": {
+          "package_name": "com.example.marketgezgini"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058624586121-r6tpi8qjouffcs2kp4f7s0g3md5a7fpb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQFCJjVfen2oslNlH1OPy0wT3C72oQpc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058624586121-r6tpi8qjouffcs2kp4f7s0g3md5a7fpb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

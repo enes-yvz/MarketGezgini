@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "514888905147",
+    "firebase_url": "https://market-gezgini-faf60.firebaseio.com",
+    "project_id": "market-gezgini-faf60",
+    "storage_bucket": "market-gezgini-faf60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514888905147:android:352ccfd508d3fd4294949e",
+        "android_client_info": {
+          "package_name": "com.example.marketgezgini"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514888905147-n30lfsm0qbuu8nui9qg37v7u989vl1qv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.marketgezgini",
+            "certificate_hash": "1b0d65ab98e50164efa6025538deeaafbeb97726"
+          }
+        },
+        {
+          "client_id": "514888905147-a40iachsahg4gjud67rk2jt70l01v142.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2DB882lKkR8Tzq_i0lLLV4Xrx3akQNF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514888905147-a40iachsahg4gjud67rk2jt70l01v142.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
